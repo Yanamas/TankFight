@@ -1,3 +1,3 @@
 # TankFight
-Tank game made in Java.
-This is a Tank Fight game, made as a college project. Have fun)
+This is a Tank Fight game, made as a college project. 
+Language used - Java. Have fun)
